@@ -42,7 +42,7 @@
         "gn:id":2079970
     },
     "wof:country":"MH",
-    "wof:geomhash":"4da71bac6cc75575cb1fe1a6b628dba9",
+    "wof:geomhash":"272fe4246d5a45c6773dc69c01fd6357",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,5 +67,5 @@
     171.58486000000005,
     7.01814
 ],
-  "geometry": {"coordinates":[171.58486000000005,7.01814],"type":"Point"}
+  "geometry": {"coordinates":[171.58486,7.01814],"type":"Point"}
 }

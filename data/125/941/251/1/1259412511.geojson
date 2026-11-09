@@ -139,7 +139,7 @@
         "wk:page":"Kwajalein_Atoll"
     },
     "wof:country":"MH",
-    "wof:geomhash":"17bb8dc1dc71d6f8486329113b3fd66a",
+    "wof:geomhash":"b18daa94ab147cf854b3d3b6e76bf62b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -164,5 +164,5 @@
     166.83118000000005,
     9.3245
 ],
-  "geometry": {"coordinates":[166.83118000000005,9.3245],"type":"Point"}
+  "geometry": {"coordinates":[166.83118,9.3245],"type":"Point"}
 }

@@ -61,7 +61,7 @@
     "wof:concordances_official":"iso:code",
     "wof:country":"MH",
     "wof:created":1459010148,
-    "wof:geomhash":"33f502ed8032703c3cdd1fb492060d6a",
+    "wof:geomhash":"e7931c04d2a4b8835170c791e7a5dfb0",
     "wof:hierarchy":[
         {
             "country_id":85632663,
@@ -94,5 +94,5 @@
     171.13953,
     8.18702
 ],
-  "geometry": {"coordinates":[171.13953000000001,8.18702],"type":"Point"}
+  "geometry": {"coordinates":[171.13953,8.18702],"type":"Point"}
 }
